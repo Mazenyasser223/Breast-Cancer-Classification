@@ -195,23 +195,6 @@ The notebook includes the following charts:
 
 ---
 
-## Future Improvements
-
-- Hyperparameter tuning (learning rate, hidden units, layers)
-- Implement cross-validation
-- Add dropout regularization to reduce overfitting
-- Compare with baseline models (Logistic Regression, Random Forest, XGBoost)
-- Deploy as a web app using Streamlit or Flask
-- Add SHAP values for model explainability
-
----
-
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
 - Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/adult)
